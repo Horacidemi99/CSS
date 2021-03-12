@@ -4,7 +4,7 @@
 p { color: #555; }
  
 /* Solo los párrafos contenidos en #primero */
-#primero p { color: #336699; }
+#primero p { color: rgba(25, 121, 218, 0.616); }
  
 /* Todos los enlaces la pagina */
 a { color: #CC3300; }
